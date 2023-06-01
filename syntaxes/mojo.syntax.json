@@ -2009,7 +2009,7 @@
         }
       ]
     },
-    "regexp-charecter-set-escapes": {
+    "regexp-character-set-escapes": {
       "patterns": [
         {
           "name": "constant.character.escape.regexp",
@@ -2159,7 +2159,7 @@
           },
           "patterns": [
             {
-              "include": "#regexp-charecter-set-escapes"
+              "include": "#regexp-character-set-escapes"
             },
             {
               "name": "constant.character.set.regexp",
@@ -2463,7 +2463,7 @@
           },
           "patterns": [
             {
-              "include": "#regexp-charecter-set-escapes"
+              "include": "#regexp-character-set-escapes"
             },
             {
               "name": "constant.character.set.regexp",
@@ -2788,7 +2788,7 @@
           },
           "patterns": [
             {
-              "include": "#regexp-charecter-set-escapes"
+              "include": "#regexp-character-set-escapes"
             },
             {
               "name": "constant.character.set.regexp",
@@ -3092,7 +3092,7 @@
           },
           "patterns": [
             {
-              "include": "#regexp-charecter-set-escapes"
+              "include": "#regexp-character-set-escapes"
             },
             {
               "name": "constant.character.set.regexp",
